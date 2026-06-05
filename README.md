@@ -28,6 +28,7 @@ Data analysis project using Excel to calculate descriptive statistics, identify 
 
 ## Project Overview
 ![Summary-Statistics](summarystatistica-data-analysis-project.png)
+![Summary-Statistics](summarystatistica-data-analysis-project.png)
 ![Outlier-Analysis](outlier-data-analysis-project.png)
 
 ## Outcome

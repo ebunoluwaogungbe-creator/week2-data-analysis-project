@@ -27,7 +27,7 @@ Data analysis project using Excel to calculate descriptive statistics, identify 
 - Most transactions were concentrated within a specific price range.
 
 ## Project Overview
-
+![Summary-Statistics](summarystatistica-data-analysis-project.png)
 ![Outlier-Analysis](outlier-data-analysis-project.png)
 
 ## Outcome

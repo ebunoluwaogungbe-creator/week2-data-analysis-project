@@ -28,7 +28,7 @@ Data analysis project using Excel to calculate descriptive statistics, identify 
 
 ## Project Overview
 
-## Trend Anaysis Screenshoot
+## Trend Analysis Screenshoot
 ![Trend-Analysis](trendanalysis-data-analysis-project.png)
 
 ## Statistics Summary Screenshoot

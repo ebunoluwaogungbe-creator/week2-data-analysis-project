@@ -26,9 +26,9 @@ Data analysis project using Excel to calculate descriptive statistics, identify 
 - Potential outliers were identified using the IQR method.
 - Most transactions were concentrated within a specific price range.
 
-## Project Screenshot
+## Project Overview
 
-![Statistics Summary](Images/statistics-summary.png)
+![Outlier-Analysis](outlier-data-analysis-project.png)
 
 ## Outcome
 The analysis provided insights into the distribution of values, identified potential outliers, and highlighted important trends within the dataset.

@@ -39,3 +39,9 @@ Data analysis project using Excel to calculate descriptive statistics, identify 
 
 ## Outcome
 The analysis provided insights into the distribution of values, identified potential outliers, and highlighted important trends within the dataset.
+
+Prepared by: Ogungbe Ebunjah
+
+Program: DecodeLabs Data Analytics Internship Program
+
+Project: Week 2 – Finding Insights
